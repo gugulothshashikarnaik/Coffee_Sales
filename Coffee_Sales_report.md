@@ -48,6 +48,3 @@ Future work should consider a deeper analysis of customer demographics to tailor
 ## Appendices
 Appendix A: Raw Sales Data
 Appendix B: Additional Graphs
-
-## Conclusion
-You can modify this outline and content to suit your specific project. Tailoring each section to reflect your work will make the report comprehensive and informative. If you have specific data or results to include, feel free to ask for help on those sections!
